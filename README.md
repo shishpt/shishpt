@@ -1,6 +1,6 @@
 ###  Hi I am Shishir
 #### I am a tech enthusiast and a full-stack developer in training
-I am currently studying Web-Development at the Tækniskólinn in Reykjavik Iceland.  I have a strong passion for technology and open source.  My goal is to provide open source solutions to customers as a freelance full-stack developer.  
+I am currently studying Web-Development at the Reykjavik Acacemy of Web Development in Reykjavik Iceland.  I have a strong passion for technology and open source.  My goal is to provide open source solutions to customers as a freelance full-stack developer.  
 
 Skills: HTML / CSS/ JS / Bash 
 
