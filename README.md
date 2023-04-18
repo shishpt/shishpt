@@ -2,9 +2,8 @@
 #### I am a tech enthusiast and a full-stack developer in training
 I am currently studying Web-Development at the Reykjavik Acacemy of Web Development.  I have a strong passion for technology and open source.
 
-Skills: HTML / CSS/ JS / Bash 
-
-- 🔭 I’m currently working on a comic-book collection project in React 
+Skills: HTML / CSS/ JS / Vue / NuxtJS 
+ 
 - 🌱 I’m currently learning React 
 
 
