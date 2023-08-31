@@ -1,4 +1,4 @@
-###  Hi I am Shishir
+###  Hi, I am Shishir
 #### I am a tech enthusiast and a full-stack developer in training
 I am currently studying Web-Development at the Reykjavik Acacemy of Web Development.  I have a strong passion for technology and open source.
 
