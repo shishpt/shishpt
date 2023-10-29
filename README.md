@@ -1,5 +1,5 @@
 ###  Hi, I am Shishir
-#### I am a tech enthusiast and a full-stack developer in training
+#### I am a tech enthusiast and a full-stack developer
 I am a recent graduate from the Reykjavik Academy of Web Development.  I have a strong passion for technology and open source.
 
 Skills: HTML / CSS/ JS / Vue / NuxtJS 
