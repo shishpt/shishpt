@@ -4,7 +4,7 @@ I am a recent graduate from the Reykjavik Academy of Web Development.  I have a 
 
 Skills: HTML / CSS/ JS / React / NextJS 
  
-- 🌱 I’m currently learning React 
+- 🌱 I’m currently learning Vue / NuxtJS 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/shishpt)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shishpt/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/shishpt)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mastodon.svg' alt='mastodon' height='40'>](https://fosstodon.org/@shishpt)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codecademy.svg' alt='codecademy' height='40'>](https://www.codecademy.com/profiles/shishpt)  
